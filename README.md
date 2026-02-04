@@ -1,2 +1,2 @@
 # git-basics-demo
-Just a sample folder
+Just a demo repository to test the Git Flow
